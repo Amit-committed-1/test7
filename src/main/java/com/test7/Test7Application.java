@@ -16,6 +16,7 @@ public class Test7Application {
 	        float m = 10.3f;
 	        char ch = 'Z';
 	        boolean isSubscribed = false;
+		char i = 'B';
 		SpringApplication.run(Test7Application.class, args);
 	}
 
