@@ -5,8 +5,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Test7Application {
-
-	
 	        String name = "mike";
 	        int x = 100;
 	        boolean isPresent = false;
@@ -17,6 +15,7 @@ public class Test7Application {
 	        char ch = 'Z';
 	        boolean isSubscribed = false;
 		char i = 'B';
+	
 	public static void main(String[] args) {
 		SpringApplication.run(Test7Application.class, args);
 	}
